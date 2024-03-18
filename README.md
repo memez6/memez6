@@ -1,4 +1,5 @@
 # Snake-game framework using python
+# Make sure you have pygame!
 
 import pygame
 import time
