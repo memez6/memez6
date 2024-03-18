@@ -1,3 +1,5 @@
+# Snake-game framework using python
+
 import pygame
 import time
 import random
